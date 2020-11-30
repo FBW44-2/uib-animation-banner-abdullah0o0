@@ -29,7 +29,7 @@
       }
       16% {
         transform: rotate(90deg) translateY(0);
-        opacity: 1;
+        opacity: 0;
       }
       17% {
         transform: rotate(-90deg) translateY(0);
